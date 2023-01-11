@@ -45,8 +45,8 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](/LU_output1.png)
-![lu decomposition](/LU_output2.png)
+![Model](/LU_output1.png)
+![Model](/LU_output2.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
