@@ -46,7 +46,12 @@ print(x)
 ```
 
 ## Output:
-![MODEL](/LU_output1.png)
+/home/sec/Pictures/Screenshots/LU_output1.png
+
+/home/sec/Pictures/Screenshots/LU_output2.png
+
+
+
 
 
 ## Result:
