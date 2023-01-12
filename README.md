@@ -46,7 +46,7 @@ print(x)
 ```
 
 ## Output:
-![LU_DECOMPOSITION](/LU_output1.png)
+![MODEL](/LU_output1.png)
 
 
 ## Result:
