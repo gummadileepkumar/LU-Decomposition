@@ -47,7 +47,6 @@ print(x)
 
 ## Output:
 ![LU_DECOMPOSITION](/LU_output1.png)
-![LU_DECOMPOSITION](/LU_output2.png)
 
 
 ## Result:
