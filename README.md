@@ -46,8 +46,8 @@ print(x)
 ```
 
 ## Output:
-![MODEL](/LU_output1.png)
-![MODEL](/LU_output2.png)
+![LU_DECOMPOSITION](/LU_output1.png)
+![LU_DECOMPOSITION](/LU_output2.png)
 
 
 ## Result:
