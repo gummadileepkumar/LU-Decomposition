@@ -39,14 +39,16 @@ import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 a=np.array(eval(input()))
 b=np.array(eval(input()))
+
 lu,piv=lu_factor(a)
 x=lu_solve((lu,piv),b)
 print(x)
 ```
 
 ## Output:
-![Model](/LU_output1.png)
-![Model](/LU_output2.png)
+![MODEL](/LU_output1.png)
+![MODEL](/LU_output2.png)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
